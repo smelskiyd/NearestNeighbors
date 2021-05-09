@@ -101,7 +101,7 @@ void Visualize() {
 }
 
 int main(int argc, char* argv[]) {
-    std::ifstream input("/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/input_tests/test8");
+    std::ifstream input("/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/input_tests/test5");
     if (!input.is_open()) {
         exit(1);
     }

@@ -13,3 +13,7 @@ To use this code, you must have to install OpenGL and FreeGLUT libraries, for gr
 ## N = 500
 
 ![image](/images/500points.png)
+
+## N = 1000
+
+![image](/images/1000points.png)

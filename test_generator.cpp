@@ -27,7 +27,7 @@ void GeneratePoints() {
 }
 
 int main(int argc, char* argv[]) {
-    std::ofstream output("/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/input_tests/test9");
+    std::ofstream output("/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/input_tests/test5");
     if (!output.is_open()) {
         exit(1);
     }
