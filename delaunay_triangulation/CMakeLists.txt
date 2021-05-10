@@ -1,6 +1,7 @@
 include_directories(include)
 
 set(SOURCES
+        include/json.h                  src/json.cpp
         include/types.h                 src/types.cpp
         include/convex_hull.h           src/convex_hull.cpp
         include/triangulation.h         src/triangulation.cpp

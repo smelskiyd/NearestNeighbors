@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../delaunay_triangulation/include/types.h
+cmath
+-
+iostream
+-
+
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/test_generator.cpp
+iostream
+-
+fstream
+-
+vector
+-
+types.h
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/types.h
+

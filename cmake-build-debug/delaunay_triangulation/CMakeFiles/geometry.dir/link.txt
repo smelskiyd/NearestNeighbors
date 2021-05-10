@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeometry.a  CMakeFiles/geometry.dir/src/json.cpp.o CMakeFiles/geometry.dir/src/types.cpp.o CMakeFiles/geometry.dir/src/convex_hull.cpp.o CMakeFiles/geometry.dir/src/triangulation.cpp.o CMakeFiles/geometry.dir/src/nearest_point.cpp.o CMakeFiles/geometry.dir/src/visualization.cpp.o
+/usr/bin/ranlib libgeometry.a

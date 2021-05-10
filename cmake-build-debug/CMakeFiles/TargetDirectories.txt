@@ -1,0 +1,8 @@
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/CMakeFiles/test_generator.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/CMakeFiles/NearestPoints.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/CMakeFiles/tests.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/delaunay_triangulation/CMakeFiles/rebuild_cache.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/delaunay_triangulation/CMakeFiles/edit_cache.dir
+/home/daniilsmelskiy/working-directory/tmp_projects/NearestPoints/cmake-build-debug/delaunay_triangulation/CMakeFiles/geometry.dir
